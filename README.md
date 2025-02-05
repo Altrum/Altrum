@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Albert username: @Altrum
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... C and Python
-- 💞️ I’m looking to collaborate on ... any projects
+- 👀 I’m interested in Java and Python development
+- 🌱 I’m currently learning C, Java and Python
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ... rojasdejesusat@gmail.com
 
 <!---
