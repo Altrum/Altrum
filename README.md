@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Albert username: @Altrum
+- 👋 Hi, I’m Albert username: @arojasd1
 - 👀 I’m interested in Java and Python development
 - 🌱 I’m currently learning C, Java and Python
 - 💞️ I’m looking to collaborate on any projects
